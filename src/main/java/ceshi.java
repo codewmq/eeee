@@ -9,5 +9,6 @@ public class ceshi {
         System.out.println("2222222222");
         System.out.println("55555555555");
         System.out.println("王梦强真帅啊！");
+        System.out.println("王梦强真帅啊！！！！！");
     }
 }
